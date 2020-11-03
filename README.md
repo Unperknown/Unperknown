@@ -1,25 +1,17 @@
 Unperknown | 박준영
 ------
 
-### Backend Engineer
+### Mobile App Developer | Backend Engineer
 
 ![Unperknown's github stats](https://github-readme-stats.vercel.app/api?username=Unperknown&show_icons=true&hide_border=true&theme=dark&count_private=true)
 
 #### Work Experience | 경력
 
-- Tickle Co. Ltd. (주식회사 티클): 2020.11. ~ (Currently on probationary period)
+##### Backend Engineer
+**Tickle Co. Ltd. (주식회사 티클)** / Seoul, South Korea / Nov. 2020 ~ (Currently on probationary period)
 
-<!--
-**Unperknown/Unperknown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tech Stacks | 사용 기술
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Javascript, Python, Java, Dart and more
+- AWS Services: EC2, DynamoDB, AppSync, Lambda, S3, CloudWatch
+- Frameworks: Node.js, React, Vue, Flutter and more

@@ -8,7 +8,7 @@ Unperknown | 박준영
 ### Work Experience | 경력
 
 #### Backend Engineer (Currently on probationary period)
-**Tickle Co. Ltd. (주식회사 티클)**, Seoul, South Korea | Nov. 2020 - present
+**Tickle Co. Ltd. (주식회사 티클)** | Seoul, South Korea | Nov. 2020 - present
 
 ### Tech Stacks | 사용 기술
 
@@ -16,3 +16,4 @@ Unperknown | 박준영
 - AWS Services: EC2, DynamoDB, AppSync, Lambda, S3, CloudWatch
 - Frameworks: Node.js, React, Vue, Flutter and more
 - API: RESTful, GraphQL
+- Architectures: Serverless, Microservice Architecture(MSA)
